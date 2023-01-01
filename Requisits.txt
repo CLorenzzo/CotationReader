@@ -1,0 +1,9 @@
+Imports:
+REQUESTS PACK;
+JSON PACK;
+-------------------------#
+Internet site:
+https://economia.awesomeapi.com.br/all/USD-BRL,EUR-BRL;
+-------------------------#
+Goals of the project:
+Read and show coins quotes
